@@ -1,2 +1,2 @@
-# hello-world
-use the hello world on git
+New in git hub
+ let's start the adventure!
